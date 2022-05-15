@@ -4,7 +4,6 @@ Online, but Offline Learning Webpage (2020-여름)
 <br/>프로젝트 명칭 : O.BO Project (Online, but Offline Project)
 <br/>프로젝트 기간 : 2020년 7~9월 
 <br/>프로젝트 개요 : 온라인 강의를 오프라인 사람들과 함께 모여(줌/온라인 상) 정해진 시간에 함께 듣는 웹사이트
-<br/>프로젝트 언어 : (프론트) HTML, CSS, Javascript / (서버) python
 
 <br/>프로젝트 설명 : 2020년 여름, 온라인 강의를 오프라인처럼 듣고 싶은 사람들을 위한 웹사이트를 만들었습니다.
 <br/>온라인 강의를 혼자 듣다 보면, 의지가 약해져 계획한 시간에 강의를 듣지 못하고 미루게 되는 경우가 많습니다.
