@@ -10,5 +10,9 @@ Online, but Offline Learning Webpage (2020-여름)
 <br/>그런 분들을 위해 같은 강의를 듣는 사람들끼리 정해진 시간에 함께 강의를 듣는 형태의 방을 구성해 보았습니다.
 <br/> 이 웹사이트를 활용한다면 오프라인처럼 계획적인 수강을 할 수 있고, 강의 정보를 공유하기에도 용이할 것입니다.
 
+<br/> 최초 기획 자료입니다.
+https://drive.google.com/file/d/1KZlPDg-M3aeshfxNlwgB_Gdwe_YLHPqc/view?usp=sharing
+
 <br/>:point_down: 프로젝트 영상 : 아래 영상은 O.BO Learning 웹사이트의 시연 영상입니다. :point_down:
 https://drive.google.com/file/d/17oNR9xAXHSHGXjSpkvxgAifFHlXRZCyZ/view?usp=sharing
+
